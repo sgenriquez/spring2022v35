@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/spring2022v35",
+        "create path (nt:unstructured) /content/dam/spring2022v35/jcr:content",
+        "set properties on /content/dam/spring2022v35/jcr:content\n  set cq:conf{String} to /conf/spring2022v35\n  set jcr:title{String} to \"Spring 2022v35\"\nend"
+    ]
+}

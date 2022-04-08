@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/spring2022v35" mode="merge"/>
+    <filter root="/content/spring2022v35" mode="merge"/>
+    <filter root="/content/dam/spring2022v35/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/spring2022v35" mode="merge"/>
+</workspaceFilter>

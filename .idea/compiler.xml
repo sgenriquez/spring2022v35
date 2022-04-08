@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring2022v35.ui.apps" />
+        <module name="spring2022v35.all" />
+        <module name="spring2022v35.ui.tests" />
+        <module name="spring2022v35.ui.apps.structure" />
+        <module name="spring2022v35.ui.content" />
+        <module name="spring2022v35.it.tests" />
+        <module name="spring2022v35.core" />
+        <module name="spring2022v35.ui.config" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
